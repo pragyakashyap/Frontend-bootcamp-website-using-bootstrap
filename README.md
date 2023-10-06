@@ -3,8 +3,9 @@
 ##### Welcome to the Frontend Bootcamp Website! This README.md file provides an overview of the frontend development aspects of our website, which is built using Bootstrap 5. This document will guide you through features of the frontend.
 
 
+### Website Demo
+![demo](https://github.com/pragyakashyap/Frontend-bootcamp-website-using-bootstrap/assets/47416981/9f4a7e07-13ed-4a3a-b450-7237cc9fd439)
 
-![Website Demo](https://github.com/yourusername/yourrepository/raw/main/path/to/your/gif.gif)
 
 
 
