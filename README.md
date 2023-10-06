@@ -16,9 +16,9 @@ document will guide through features of the frontend.
 ##### 
 - Responsive Design: The website is designed to be responsive and optimized for various screen sizes, ensuring a consistent user experience across devices.
 
-- Bootstrap Components: We leverage Bootstrap's components, such as the navbar, cards, forms, and buttons, to create a visually appealing and user-friendly interface.
+- Bootstrap Components: leverages Bootstrap's components, such as the navbar, cards, forms, and buttons, to create a visually appealing and user-friendly interface.
 
-- Custom Styling: Custom CSS (style.css) is used to enhance and tailor the visual elements to match our bootcamp's branding.
+- Custom Styling: Custom CSS (style.css) is used to enhance and tailor the visual elements to match bootcamp's branding.
 
 - JavaScript Enhancements: JavaScript can be further integrated to add interactive features and functionality, such as form validation.
 
