@@ -6,7 +6,6 @@
 ### Website Demo
 ![demo](https://github.com/pragyakashyap/Frontend-bootcamp-website-using-bootstrap/assets/47416981/9f4a7e07-13ed-4a3a-b450-7237cc9fd439)
 
-![Website Demo](https://github.com/pragyakashyap/Frontend-bootcamp-website-using-bootstrap/blob/main/Demo/demo.gif)
 
 
 ### Features
